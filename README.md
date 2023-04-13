@@ -1,3 +1,5 @@
+# test for Bridge
+
 ## Starting
 
 ```
@@ -67,7 +69,7 @@ Get all user's accounts.
 
 ---
 
-## Accounts
+## Accounts with transactions
 
 Get all user's accounts with transactions without duplicate.
 
@@ -168,4 +170,3 @@ _Sign references_
 **Condition** : If API key is missing or wrong.
 
 **Code** : `401 UNAUTHORIZED`
-# testBridge
